@@ -10,7 +10,7 @@ The script shows how to read and examine data and also shows analysis examples, 
  - thematic mapping (chropleth, dot maps)
  - overlay analysis (what's within what?)
  - distance calculation
- - mean center calculation
+ - mean center analysis (replicates John Snow map!)
  - raster interpolation (create annual average weather/rainfall map)
  
  ![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-113.png) 
